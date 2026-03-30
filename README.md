@@ -40,5 +40,5 @@
 
 ## **联系方式 / Contact**
 
-如需商业使用或衍生作品授权，请联系作者。
-For commercial use or derivative work licensing, please contact the author.
+- 如需商业使用或衍生作品授权，请联系作者。
+- For commercial use or derivative work licensing, please contact the author.
